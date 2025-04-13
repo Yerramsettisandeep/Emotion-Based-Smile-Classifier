@@ -75,9 +75,9 @@ OpenCV
 Streamlit
 A GPU-enabled machine (optional but recommended)
 
-accuracy
+Accuracy
 ![WhatsApp Image 2025-04-12 at 08 32 58_3cccb9c8](https://github.com/user-attachments/assets/7fef9502-7928-4d59-af19-7b479dcbf505)
 
 
-output
+Output
 ![WhatsApp Image 2025-04-11 at 23 29 45_db8f7a02](https://github.com/user-attachments/assets/81cf8f13-e80f-4938-aef9-2c3c070ad9d1)![WhatsApp Image 2025-04-11 at 23 29 45_5ad59289](https://github.com/user-attachments/assets/b0c72b81-13dc-4528-8d51-ac5c1f811f09)
